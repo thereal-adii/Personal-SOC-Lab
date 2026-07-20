@@ -1,0 +1,6 @@
+*.log
+*.key
+*.pem
+*.token
+secrets/
+raw-logs/
